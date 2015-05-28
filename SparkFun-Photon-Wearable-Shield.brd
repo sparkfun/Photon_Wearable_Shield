@@ -1895,10 +1895,10 @@ design rules under a new name.</description>
 <attribute name="DESIGNER" value="NAME" x="-2.54" y="-13.97" size="1.778" layer="27" display="off"/>
 </element>
 <element name="JP25" library="SparkFun-Connectors" package="1X12_SMD_COMBINED" value="M12SMD_COMBINED" x="20.836128125" y="44.080428125" rot="R270">
-<attribute name="PROD_ID" value="(Sparkle Number)" x="20.836128125" y="44.080428125" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="CONN-12614" x="20.836128125" y="44.080428125" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="JP26" library="SparkFun-Connectors" package="1X12_SMD_COMBINED" value="M12SMD_COMBINED" x="38.616128125" y="44.080428125" rot="R270">
-<attribute name="PROD_ID" value="(Sparkle Number)" x="38.616128125" y="44.080428125" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="CONN-12614" x="38.616128125" y="44.080428125" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="J1" library="Photon_wearable" package="PAD-LONG-2-SIDED" value="PAD" x="29.726128125" y="59.955428125" rot="R270"/>
 <element name="J2" library="Photon_wearable" package="PAD-LONG-2-SIDED" value="PAD" x="21.979128125" y="58.914028125" rot="R285"/>

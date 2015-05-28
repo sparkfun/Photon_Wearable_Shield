@@ -20010,7 +20010,7 @@ Standard 12-pin 0.1" header. Use with straight break away headers (SKU : PRT-001
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="(Sparkle Number)"/>
+<attribute name="PROD_ID" value="CONN-12614"/>
 </technology>
 </technologies>
 </device>
