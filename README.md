@@ -22,6 +22,7 @@ Repository Contents
 -------------------
 
 * **/Production** - Production panel files (.brd)
+* **/Hardware** - Eagle design files (.brd, .sch)
 
 Documentation
 --------------
